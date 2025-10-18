@@ -1,0 +1,2 @@
+# Daily Notes
+Renew SSL certificate for staging environment
